@@ -1,0 +1,55 @@
+{
+    "items": [
+      {
+        "sys": { "id": "1" },
+        "fields": {
+          "title": "queen panel bed",
+          "price": 16.90,
+          "image": { "fields": { "file": { "url": "./images/1.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "2" },
+        "fields": {
+          "title": "La Resta Double Bed",
+          "price": 15.99,
+          "image": { "fields": { "file": { "url": "./images/2.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "3" },
+        "fields": {
+          "title": "Bari Queen Bed",
+          "price": 17.0,
+          "image": { "fields": { "file": { "url": "./images/3.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "4" },
+        "fields": {
+          "title": "Oakridge Queen Bed",
+          "price": 21.32,
+          "image": { "fields": { "file": { "url": "./images/4.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "5" },
+        "fields": {
+          "title": "Coolmore King Bed",
+          "price": 34.89,
+          "image": { "fields": { "file": { "url": "./images/5.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "6" },
+        "fields": {
+          "title": "Bjorn Bed Frame",
+          "price": 33.93,
+          "image": { "fields": { "file": { "url": "./images/6.jpg" } } }
+        }
+      }     
+      
+      
+      
+    ]
+  }
